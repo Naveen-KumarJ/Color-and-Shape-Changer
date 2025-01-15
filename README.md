@@ -10,7 +10,7 @@ A fun and interactive web application that allows users to dynamically change th
 
 ## 🚀 Live Demo
 
-[Click here to view the live demo](https://your-demo-link-here)  
+[Click here to view the live demo](https://naveen-kumarj.github.io/Color-and-Shape-Changer/)  
 
 
 ## 🛠️ Technologies Used
@@ -24,7 +24,7 @@ A fun and interactive web application that allows users to dynamically change th
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/color-and-shape-changer.git
+    git clone https://github.com/Naveen-KumarJ/Color-and-Shape-Changer.git
     ```
 
 2. Navigate to the project directory:
@@ -34,7 +34,7 @@ A fun and interactive web application that allows users to dynamically change th
 
 3. Open the `index.html` file in your browser to view the application.
 
-## Usage
+## 👍 Usage
 
 - Open the application in any modern browser.
 - Use the controls to change colors and shapes on the page.
